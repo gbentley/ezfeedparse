@@ -3,7 +3,7 @@
 //
 // SOFTWARE NAME: eZ Feed Parse
 // SOFTWARE RELEASE: 0.1
-// COPYRIGHT NOTICE: Copyright (C) 1999-2009 Damien POBEL
+// COPYRIGHT NOTICE: Copyright (C) 2009 Damien POBEL
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //   This program is free software; you can redistribute it and/or
