@@ -6,7 +6,7 @@
 // Created on: <29-Jun-2009 18:04 damien pobel>
 //
 // SOFTWARE NAME: eZ Feed Parse
-// SOFTWARE RELEASE: 0.1
+// SOFTWARE RELEASE: 0.2
 // COPYRIGHT NOTICE: Copyright (C) 2009 Damien POBEL
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
