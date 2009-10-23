@@ -1,4 +1,8 @@
 <?php /*
+#
+# $Id$
+# $HeadURL$
+#
 
 [ModuleSettings]
 ExtensionRepositories[]=ezfeedparse

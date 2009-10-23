@@ -1,4 +1,8 @@
 <?php
+//
+// $Id$
+// $HeadURL$
+//
 // Created on: <29-Jun-2009 18:04 damien pobel>
 //
 // SOFTWARE NAME: eZ Feed Parse
