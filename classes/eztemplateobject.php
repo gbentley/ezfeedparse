@@ -44,6 +44,10 @@ class eZTemplateObject
         $val = $this->object->$name;
         if ( is_object( $val ) )
         {
+            if ( $val instanceof DateTime )
+            {
+                return $val->format( 'U' );
+            }
             return new eZTemplateObject( $val );
         }
         else if ( is_array( $val ) )
